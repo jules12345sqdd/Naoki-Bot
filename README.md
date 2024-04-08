@@ -28,12 +28,12 @@ If you want to change the config, open up [config.json](https://discord.gg/zM6ZN
 ```js
 module.exports = {
     app: {
-        px: 'prefix',
+        px: '+',
         token: 'put-token-here',
-        owners: ["owner-id","",],//
+        owners: ["owner-id","1215378833650229270",],//
         funny: 'dev-id',
-        color: '#2f3136',
-        footer: 'Nova World',
+        color: '#9DDCFF',
+        footer: 'Collège Saint-Martin',
         maxserver: '10',
         maxVol: '150',
         everyoneMention: false,
