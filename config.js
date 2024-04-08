@@ -2,10 +2,10 @@ module.exports = {
     app: {
         px: '+',
         token: '',
-        owners: [""],
+        owners: ["1215378833650229270"],
         funny: '',
-        color: '#2f3136',
-        footer: 'Protect',
+        color: '#9DDCFF',
+        footer: 'Collège Saint-Martin',
         maxserver: '100',
         maxVol: '150',
         everyoneMention: false,
